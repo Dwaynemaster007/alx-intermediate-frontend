@@ -56,4 +56,18 @@ In this section, you'll master **Tailwind CSS**, a powerful utility-first framew
 -   **`0x02-tailwind-css/`**: Contains all files for the Tailwind CSS tasks.
     -   `tailwind.config.js`: The configuration file for Tailwind.
     -   `src/input.css`: The source file for Tailwind's directives.
-    -   `src/output.css`: The generated CSS file
+    -   `src/output.css`: The generated CSS file.
+    -   `1-index.html`: A basic 3-column CSS Grid layout.
+    -   `2-index.html`: A complex page layout with nested grids.
+    -   `3-nav_index.html`: A responsive navigation bar built with Flexbox.
+    -   `4-flexbox_index.html`: A responsive sidebar and content layout using Flexbox.
+    -   `5-gridflex_index.html`: Combines both Grid and Flexbox for a multi-section page.
+    -   `6-imageGallery.html`: A responsive image gallery using CSS Grid.
+
+***
+
+### **🤝 Contribution & Review**
+
+This project is a fantastic opportunity for peer learning. If you'd like to contribute or review, please follow the project guidelines.
+
+**Happy Coding!** ✨
