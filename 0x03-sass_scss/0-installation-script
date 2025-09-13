@@ -1,0 +1,13 @@
+# Project Set up for SASS
+
+1. Navigated to the project repository:
+   cd /path/to/alx-intermediate-frontend
+
+2. Created the new directory for the project:
+   mkdir 0x03-sass_scss
+
+3. Navigated into the new directory:
+   cd 0x03-sass_scss
+
+4. Installed SASS version 3.7.4 using npm:
+   npm install sass@3.7.4
