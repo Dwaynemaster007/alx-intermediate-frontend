@@ -1,6 +1,6 @@
-### 🎨 Project Overview
+# 🚀 ALX Intermediate Frontend Projects
 
-# **🚀 ALX Intermediate Frontend Projects**
+### 🎨 Project Overview
 
 ### **Building a Solid Foundation with Modern Web Development**
 
